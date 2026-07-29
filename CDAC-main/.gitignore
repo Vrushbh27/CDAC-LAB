@@ -1,0 +1,12 @@
+state
+.vscode
+.metadata
+.settings
+*.class
+
+
+.fake
+*Obj
+
+*bin
+*vs
